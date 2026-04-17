@@ -41,6 +41,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/OPS-Allan/OPS-Allan/output/snake.svg" alt="Snake animation" />
 
 ###
