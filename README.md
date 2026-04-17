@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Information Systems student at the Federal University of Mato Grosso do Sul<br>🧠 Solid foundation in programming logic<br>🎯 Work as a developer, applying knowledge in programming and building efficient and well-structured systems.<br>🧠 Misc:<br>        🏐 Volleyball Player<br>        💪🏼 Focus on bodybuilding<br>        📚 Reader</p>
+<p align="left">💻 Information Systems student at the Federal University of Mato Grosso do Sul<br>🧠 Solid foundation in programming logic<br>🎯 Work as a developer, applying knowledge in programming and building efficient and well-structured systems.<br>🧠 Misc:<br>               🏐 Volleyball Player<br>        💪🏼 Focus on bodybuilding<br>        📚 Reader</p>
 
 ###
 
